@@ -1,0 +1,36 @@
+.login-form {
+    max-width: 400px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .input-label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4a4a4a;
+  }
+  
+  .login-input {
+    font-size: 16px;
+    border: 2px solid #e2e2e2;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .login-button {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .login-button:hover {
+    background-color: #0069d9;
+  }
+  
+  
+  
